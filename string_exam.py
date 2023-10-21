@@ -1,21 +1,11 @@
 #1. Reverse the words in the given string program 
 #String = "hello world".
 
-string = "hello world"
-s = string.split()[::-1]
-l = []
-for l in s:
-append(i)
-print(" ".join(l))
 
 
 #2. Reverse Words Using split() python
 #String = "hello world".
 
-test_string = "Gfg is best"
-print("The original string : " + str(test_string))
-res =  ', '.join(test_string.split()[::-1])
-print("The string after reverse split : " + str(res))
 
 #3. Write a Python program to calculate the length of a string.
 s = "hello world"
